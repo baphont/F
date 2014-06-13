@@ -1,0 +1,43 @@
+a {
+    color: #beb011;
+    text-decoration-line: none;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #aaeedd;
+    text-decoration-line: none;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #ff00ff;
+    text-decoration-line: none;
+    text-decoration: none;
+}
+
+#head{
+    background-color: gray;
+    text-align: center;
+    font-family: impact, ;
+    text-shadow: 0.5;
+    float: left;
+    width: 50%;
+    height: 120px;
+    
+}
+
+#fuckin{
+    background-color: black;
+    color: white;
+    
+    
+}
+
+#cat{
+    background-color: #ddff11;
+    color: black;
+    float: right;
+    width: 50%;
+    height: 120px;
+}
