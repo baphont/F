@@ -41,3 +41,40 @@ a:hover {
     width: 50%;
     height: 120px;
 }
+
+#hole{
+    background-color: #ff7600;
+    color: rgba(0, 0, 0, 0.24);
+    font-family: impact, sans-serif;
+    width: 600px;
+    float: inherit;
+}    
+
+#fuck{
+    background-color: #0076FF;
+    color: rgba(255, 0, 0, 0.7);
+    width: 50%;
+    float: left;
+}
+
+#gayguy{
+    background-color: #00FF66;
+    color: black;
+    width: 50%;
+    float: left;
+}
+
+#haha{
+    background-color: black;
+}
+
+#ohh {
+    background-color: #000000;
+    color: #FAFAFA;
+    width: 50%;
+    height: 120px;
+    font-size: 40px;
+    margin: 10px 10;
+    text-align: center;
+    float: right;
+}
